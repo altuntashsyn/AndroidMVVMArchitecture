@@ -1,5 +1,5 @@
 # Android MVVM Architecture Sample App
-Sample Android MVVM (JetPack / LiveData - ModelView) Architecture App with Github Repo Listing feature
+Sample Android MVVM (JetPack / LiveData - ViewModel) Architecture App with Github Repo Listing feature
 
 Usage: 
 
